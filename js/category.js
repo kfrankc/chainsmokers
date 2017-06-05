@@ -54,10 +54,10 @@ $(document).ready(function () {
                 y: 18.33
             }, {
                 name: 'Dubstep/Brostep',
-                y: 23.33
+                y: 21.67
             }, {
                 name: 'Electro House',
-                y: 3.33
+                y: 5.00
             }]
         }]
     });
