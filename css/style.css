@@ -39,7 +39,8 @@ body > * {
 }
 
 p {
-    line-height: 130%;
+    line-height: 140%;
+    text-align: justify;
 }
 
 a {
